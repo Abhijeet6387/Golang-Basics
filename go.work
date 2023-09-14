@@ -1,0 +1,25 @@
+go 1.21.1
+
+use (
+	./aboutJson
+	./buildapi
+	./conditionals
+	./datatypes
+	./files
+	./functions
+	./httpRequests
+	./interfaces
+	./loops
+	./maps
+	./mongoapi
+	./mymodules
+	./pointers
+	./randomNumbers
+	./stdLibrary
+	./structs
+	./switch
+	./time
+	./urls
+	./waitGroups&Mutex
+	./webrequests
+)

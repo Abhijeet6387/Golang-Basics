@@ -1,0 +1,7 @@
+Marksheet 
+Chemistry                 : 89                        
+Maths                     : 93                        
+Physics                   : 78                        
+-----------------------------------------
+Total 260 : 300 
+Percentage : 86.67 

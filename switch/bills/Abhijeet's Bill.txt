@@ -1,0 +1,7 @@
+Bill breakdown 
+Tea:                      ...Rs10 
+Coffee:                   ...Rs25 
+Maggie:                   ...Rs30 
+Paratha:                  ...Rs45 
+tip:                      ...Rs15 
+total:                    ...Rs125.00
